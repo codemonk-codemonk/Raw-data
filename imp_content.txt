@@ -1,0 +1,14 @@
+1. https://www.youtube.com/watch?v=OBQTQaJHuEc&list=PL_HlKez9XCSOZ0rkkjiC1AGcqilogaXtw
+	insrtion deletion and updation in database using laravel.
+
+2. https://www.youtube.com/watch?v=t_KkjZMIA3Q&list=PL_HlKez9XCSPm1pkHmWz02ieSZok_I6wy
+	all about laravel.
+
+3. https://www.youtube.com/watch?v=jnvu1GpylP0&list=LLEea94ktI-T6nqNfHzsc04w&index=4&t=2772s
+	how to create basic laravel website.
+
+4. https://www.youtube.com/watch?v=ycJ2v2tKiKg&list=PL_HlKez9XCSOUiHgGrIht6TD9GBIPBm9D&index=9
+	ams.
+
+5.  https://www.youtube.com/watch?v=iKRLrJXNN4M&list=PLwAKR305CRO9S6KVHMJYqZpjPzGPWuQ7Q
+	adding of multiple authentication.
