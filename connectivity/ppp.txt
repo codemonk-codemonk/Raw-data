@@ -1,0 +1,25 @@
+php artisan migrate
+php artisan make:auth
+php artisan make:controller ContactusController --resource
+php artisan make:migration create_users_table
+
+
+
+C:\xampp\htdocs>cd OI1
+
+C:\xampp\htdocs\OI1>php artisan make:controller CheckController
+Controller created successfully.
+
+C:\xampp\htdocs\OI1>php artisan make:controller CheckController --resource
+Controller created successfully.
+
+C:\xampp\htdocs\OI1>php artisan make:model Check
+Model created successfully.
+
+C:\xampp\htdocs\OI1>php artisan make:migration create_Checks_table
+Created Migration: 2019_10_23_155740_create_Checks_table
+
+C:\xampp\htdocs\OI1>php artisan migrate
+Migrated: 2019_10_23_155740_create_Checks_table
+
+C:\xampp\htdocs\OI1>php artisan make:controller CheckController --resourceuse App\Contact;
