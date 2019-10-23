@@ -1,0 +1,44 @@
+CAR---
+COMPANY NAME
+Car registraion number.
+Car number.
+Front and back photo.
+Car bill.(upload pdf).
+Car model number.
+Year of purchase.
+Price 
+
+BIKE--
+COMPANY NAME
+Bike registration number.
+Bike number.
+photo
+bill
+mdel
+year of purchase
+price
+Bike model.
+
+
+MOBILE--
+IMEI NO.
+COMPANY NAME
+year of purchase.
+photo.
+bill.
+price.
+model no.
+
+
+Laptop--
+serial no.
+company name.
+year of purchas.
+photo.
+bill.
+price.
+model no.
+ 
+
+
+
